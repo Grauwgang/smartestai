@@ -32,7 +32,7 @@ const Header: React.FC = () => {
       <div className="container mx-auto px-6 flex justify-between items-center">
         <div className="flex items-center">
           <img 
-            src="https://raw.githubusercontent.com/yourusername/smartest-assets/main/logo-3d.png" 
+            src="/images/logotransp.png" 
             alt="Logo" 
             className="h-8 w-8"
           />
